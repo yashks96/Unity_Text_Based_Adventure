@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: StartState
+  m_EditorClassIdentifier: 
+  storyText: "The air smells of ash and smoke. \nYou open your eyes and all you can
+    see is a ruby coloured haze. You try to get up but its difficult. \"My arm hurts
+    like hell!\", you think. Then you look up, and notice you are in hell. The small
+    village houses are burning, engulfed in the crimson fires of hell. You try to
+    think of what happened here?  But your head hurts. You try to remember but nothing
+    comes to mind. You Look around to figure things out. But nothing makes sense.
+    There is a burned down house behind you. Reduced to ashes, the bright red embers
+    still emanate from its site. Your instinct tells you to get out of the village.
+    Fear and panic start to take over your mind, but you heart is filled to the brim
+    with sadness and agony. You feel like screeming but do not have the energy for
+    it.\nYou notice the grandeous mountains far North of the village, looking like
+    Satan dark pits of hellfire right now. You turnaround to see in the other direction.
+    There is river behind the burned down house. It gray water resemble the Styx,
+    carrying the damned souls of this poor village.You know you have to leave. Which
+    way should you go?\r\n\t-> Go North towards the Mountains\r\n\t-> Follow the course
+    of the river. "
+  nextState:
+  - {fileID: 11400000, guid: b6b73abf35df1714d93d74f151fcd1eb, type: 2}
+  - {fileID: 11400000, guid: 5b8dc30a3bdb23d45a8b87d0bd5c26dd, type: 2}

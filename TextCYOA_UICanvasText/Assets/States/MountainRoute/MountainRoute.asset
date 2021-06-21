@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: MountainRoute
+  m_EditorClassIdentifier: 
+  storyText: "You decide you have to get out of this place at once. At a distance,
+    you see a large gate.\r\n\"Village Entrance!\", the thought pops in your head.\r\nThe
+    gate appears to be in the north-eastern side of town and and seems to lead up
+    to the mountain. You start on the road to the gate. You walk along the road, witnessing
+    the rampage and ruin the fires of hell have brought forth. Suddenly, your foot
+    hits something  and you stumble. You look down to see a man, lying in his own
+    pool of blood. With a sword in his stomach, he appears to be a village guard,
+    perhaps a soldier. With blood coming out of his abdomen and mouth, he whispers.\r\n\"GET
+    OUT!!!\", his warning comes with his final breath.You see a bow and a quiver,
+    full of arrows, lying next to him.\r\n->Take the sword out of his stomach\r\n->Pick
+    up the bow and arrow.  \r\n"
+  nextState:
+  - {fileID: 11400000, guid: d7773dbcc4dd0284c9a92efd9aaf3630, type: 2}
+  - {fileID: 11400000, guid: 8f133e5932c6a03489f70e03d0b7befc, type: 2}

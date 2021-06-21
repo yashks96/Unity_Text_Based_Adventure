@@ -1,0 +1,6 @@
+You decide you have to get out of this place at once. At a distance, you see a large gate.
+"Village Entrance!", the thought pops in your head.
+The gate appears to be in the north-eastern side of town and and seems to lead up to the mountain. You start on the road to the gate. You walk along the road, witnessing the rampage and ruin the fires of hell have brought forth. Suddenly, your foot hits something  and you stumble. You look down to see a man, lying in his own pool of blood. With a sword in his stomach, he appears to be a village guard, perhaps a soldier. With blood coming out of his abdomen and mouth, he whispers.
+"GET OUT!!!", his warning comes with his final breath.You see a bow and a quiver, full of arrows, lying next to him.
+->Take the sword out of his stomach
+->Pick up the bow and arrow.  

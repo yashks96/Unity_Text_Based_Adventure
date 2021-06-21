@@ -1,0 +1,7 @@
+You drag yourself to the river. Parched, you bend down to quench your thirst. The water acts as ambrosia for your tired soul and weary body. You wonder how you came to be at this place and what happened here.
+As you are about to take a second gulp, you notice an object floating in the river. It seems to be covered in some sort of immiscible fluid. As the body draws near, you come to know the true identity of the object, to your horror. 
+A lifeless, half-charred corpse of a woman passes by you, as it is being taken by the current downstream. The fluid which you noticed earlier was the dried up blood, still not ready to curdle with water and make it a crimson red.
+You look at the upper bank of the river and then you look towards the mountain.
+
+->Follow the river upstream.
+->Go towards the mountain.

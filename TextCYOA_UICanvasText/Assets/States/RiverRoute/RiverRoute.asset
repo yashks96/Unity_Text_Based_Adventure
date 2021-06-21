@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: RiverRoute
+  m_EditorClassIdentifier: 
+  storyText: "You drag yourself to the river. Parched, you bend down to quench your
+    thirst. The water acts as ambrosia for your tired soul and weary body. You wonder
+    how you came to be at this place and what happened here.\r\nAs you are about to
+    take a second gulp, you notice an object floating in the river. It seems to be
+    covered in some sort of immiscible fluid. As the body draws near, you come to
+    know the true identity of the object, to your horror. \r\nA lifeless, half-charred
+    corpse of a woman passes by you, as it is being taken by the current downstream.
+    The fluid which you noticed earlier was the dried up blood, still not ready to
+    curdle with water and make it a crimson red.\r\nYou look at the upper bank of
+    the river and then you look towards the mountain.\r\n->Go towards the mountain.\r\n->Follow
+    the river upstream."
+  nextState:
+  - {fileID: 11400000, guid: b6b73abf35df1714d93d74f151fcd1eb, type: 2}
+  - {fileID: 11400000, guid: 90449e350a5fd714f8493a6983794828, type: 2}

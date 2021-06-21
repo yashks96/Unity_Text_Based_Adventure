@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: River111
+  m_EditorClassIdentifier: 
+  storyText: "Judging from the armour of the man, you infer that the man won't be
+    able to follow you into the river. You run towards the river. The man tries to
+    follow, but the sand in his eyes is making him slow. With a giant splash, you
+    enter the cold waters of the river. Tired to the bone, you allow the water current
+    to take you along. You see the armoured man in the distance, fuming. \r\nYou have
+    avoided death for the day. But questions about your past still encircle your mind.
+    With no recollection of your past, you know you have a long journey ahead of you.
+    But for now you close your eyes, filling you head with a happy melody.\r\nSUCCESS!!!\n\n(Press
+    1)"
+  nextState:
+  - {fileID: 11400000, guid: 31600239530414e43a740b254b31e434, type: 2}

@@ -1,0 +1,6 @@
+You walk along the bank of the river, the clear waters of which have turned a dark red. Exhausted and in pain, you try to make sense of it all. You want to figure out everything about yourself and how it came to be. But the desire to get out of this amber hell takes priority over everything else.
+Suddenly, you feel a seering pain on your back. You fall down, screaming in pain. You turn your face to find cause of your latest suffering. A huge burly man looks down on you. Covered in armour and a white tiger crest, he speaks through his open visor.
+"I have finally found you!, you little snake!", he says. Unaware of the context, you stare at him. Still in pain, you wonder why is he trying to hurt you. You look up at him, only to find a longsword coming down on you. You roll over to your left, narrowly avoiding the blow. 
+Taken over by fear, you notice something shining in the grass. It is a dagger. You the notice the armoured man running towards you.
+->Pick up the dagger from the grass.
+->Run away from the armoured man. 

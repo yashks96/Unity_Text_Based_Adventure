@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: Mountain1
+  m_EditorClassIdentifier: 
+  storyText: "You take the sword out of man's stomach. The blood starts gushing out
+    of his abdomen. The blood on the blade glimmers in the amber light of fire. You
+    drag yourself, with the blade in your right hand. You notice a large tree, blocking
+    your path. You turn around and decide to take another route. You are about to
+    take to the next turn, when suddenly you hear some noises.\r\n\"Did you find him?\"
+    , said the large, tall man covered in armour, sporting a red tiger crest.\r\n\"No
+    luck here. But man, if we dont retrive the boy, the chief is gonna get really
+    mad. \", said the other man, shorter than the first one, also covered in armour
+    with a red tiger crest.\r\nNot knowing what to do, you decide to confront those
+    men. You charge towards the large man with your sword raised. The men looking
+    in the other direction, do not notice. You plunge the your sword in the tall mercenary's
+    back. \r\nThe blood starts splurting out blood. In a swift move, you take the
+    sword out of the man's abdomen. The man falls to the ground, blood gushing out
+    of his back.\r\nSuddenly, the other man hits your hand, knocking the sword out
+    of your hand.\r\n->Try picking the sword.\r\n->Start running towards the gate. "
+  nextState:
+  - {fileID: 11400000, guid: 3fc9aed7c775b9440a9cd3503e096ff3, type: 2}
+  - {fileID: 11400000, guid: 1a6474a5a267fe84e8b4f6b8277e30ee, type: 2}
