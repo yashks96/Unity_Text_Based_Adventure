@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: River1
+  m_EditorClassIdentifier: 
+  storyText: "You walk along the bank of the river, the clear waters of which have
+    turned a dark red. Exhausted and in pain, you try to make sense of it all. You
+    want to figure out everything about yourself and how it came to be. But the desire
+    to get out of this amber hell takes priority over everything else.\r\nSuddenly,
+    you feel a seering pain on your back. You fall down, screaming in pain. You turn
+    your face to find cause of your latest suffering. A huge burly man looks down
+    on you. Covered in armour and a white tiger crest, he speaks through his open
+    visor.\r\n\"I have finally found you!, you little snake!\", he says. Unaware of
+    the context, you stare at him. Still in pain, you wonder why is he trying to hurt
+    you. You look up at him, only to find a longsword coming down on you. You roll
+    over to your left, narrowly avoiding the blow. \r\nTaken over by fear, you notice
+    something shining in the grass. It is a dagger. You the notice the armoured man
+    running towards you.\r\n->Pick up the dagger from the grass.\r\n->Run away from
+    the armoured man. "
+  nextState:
+  - {fileID: 11400000, guid: 96ac6d24a00e1bf4e8428f669ba0f6e0, type: 2}
+  - {fileID: 11400000, guid: 3c61a1e3030e2634689391c4a07f69d2, type: 2}

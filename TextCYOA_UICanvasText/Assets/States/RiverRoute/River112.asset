@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: River112
+  m_EditorClassIdentifier: 
+  storyText: "Afraid foe your life you start running upstream. The armoured man charges
+    at you, his face red with blood. You start running up the river.\r\nIn the distance,
+    you see a human figure. You scream \"Help me!!\". The man in the distance raises
+    his hand, waving at you. You start to feel you can survive. As the blurry figure
+    becomes clear, you notice the same tiger crest; this time red in colour. You start
+    slowing down. Panic and fear start taking over. You realize that you have no way
+    of escape.\r\nSuddenly, a sword pierces your back and comes out of your stomach.
+    You realize that this is the end. As the sword starts moving upward, life starts
+    escaping your body. You meet the most gruesome end one can hope for.\r\nYOU DIED!!!\n\n(Press
+    1)"
+  nextState:
+  - {fileID: 11400000, guid: 31600239530414e43a740b254b31e434, type: 2}

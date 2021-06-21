@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: Mountain11
+  m_EditorClassIdentifier: 
+  storyText: "You run towards the sword, trying to pick it up. The short mercenary
+    runs towards you. He charges at you. You reach the sword, scrambling to pick the
+    sword. He raises his sword, shouting, \"You are dead, boy!!!\".\r\nYou turn around
+    and plunge the sword in his chest. Blood splurts out of his mouth and lands on
+    your legs. Panting, you get up and start running towards the gate, not looking
+    back.\r\nYou finally reach the gate, out of breath. You finally feel secure and
+    safe. You look back at the burning village, trying to comprehend what this place
+    meant you. But nothing comes to mind. You start walking towards the mountain.
+    You are safe for now.\r\nSUCCESS!!!\r\n\n(Press 1)"
+  nextState:
+  - {fileID: 11400000, guid: 31600239530414e43a740b254b31e434, type: 2}

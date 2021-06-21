@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3a723ce60ca3948aed3f02bff0aa20, type: 3}
+  m_Name: Mountain12
+  m_EditorClassIdentifier: 
+  storyText: "Afraid and full of fear, you start running towards the gate. The other
+    mercenary shouts, \"You are not gonna get away from me!\".\r\nHe starts running
+    behind you. Fearing for your life, you start running faster. Your flight instinct
+    takes over, you stop thinking about surroundings. Suddenly, a large signpost hanging
+    from the roof of a store falls. You try to roll over to avoid it, but end up hurting
+    your knee. You try to get up and start running, but pain is too intense to ignore.
+    You still get up and and start walking as fast as you can.\r\nSuddenly, you feel
+    a seering pain in your back. You fall down. You roll over and see the short mercenary,
+    smiling.\r\n\"The chief will be pleased!\", as he bring down his sword on you.\r\nYOU
+    DIED!!!\n\n(Press 1)"
+  nextState:
+  - {fileID: 11400000, guid: 31600239530414e43a740b254b31e434, type: 2}
